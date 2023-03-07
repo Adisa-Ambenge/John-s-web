@@ -1,0 +1,109 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #f7f7f7;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav ul {
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+}
+
+nav li {
+	margin: 0 10px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+main {
+	max-width: 960px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+h2 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.shop{
+    display: flex;
+}
+.samples {
+	display: flex;
+    margin-left: 150px;
+
+}
+
+#price{
+    background-color: #ffac7d;
+}
+button{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #ffac7d;
+}
+#product1{
+width: 200px;
+margin: 20px
+
+}
+.social{
+    background-color: #002d3d;
+    }
+    #home{
+        color: #ffac7d;
+    }
+    .media{
+        color: white;
+    }
+    .about{
+        list-style: none;
+        margin-left: 100px;
+    }
+    .social{
+        display: flex;
+        list-style: none;
+        justify-content: space-between;
+        height: 100px;
+        padding: 50px;
+        text-decoration-color: white;
+    }
+    .abt{
+        color: white;
+    }
+    .shipping{
+        color: white;
+    }
+    .career{
+        color: white;
+    }
+    .number{
+        color: white;
+    }
+    #Imagefive{
+        margin-left: 70px;
+        height: 280px;
+    }
+    .delivery{
+        height: 100px;
+        text-align: center;
+    }
+    #fee{
+        font-weight: bold;
+        font-size: large;
+    }
